@@ -16,4 +16,4 @@ This project is a simple yet powerful **Sentiment Analysis Web App** built with 
 
 ## 🚀 Live Demo
 
-Try it in your browser with [Gradio]([https://gradio.app](https://d67e483ff4d7e5f357.gradio.live)):
+Try it in your browser with [Gradio]([  https://d67e483ff4d7e5f357.gradio.live ]):
